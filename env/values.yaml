@@ -26,4 +26,4 @@ mongodb:
   mongodbUsername: "test"
   mongodbPassword: "test"
   mongodbDatabase: "testdb"
-  mongodbEnableIPv6: false
+  mongodbEnableIPv6: "false"
