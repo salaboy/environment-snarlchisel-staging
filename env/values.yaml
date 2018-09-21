@@ -22,3 +22,8 @@ expose:
   Annotations:
     helm.sh/hook: post-install,post-upgrade
     helm.sh/hook-delete-policy: hook-succeeded
+mongodb:
+  mongodbUsername: "test"
+  mongodbPassword: "test"
+  mongodbDatabase: "testdb"
+  mongodbEnableIPv6: false
