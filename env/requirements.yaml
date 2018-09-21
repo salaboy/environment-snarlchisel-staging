@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.58
 - name: mongodb
   repository: https://kubernetes-charts.storage.googleapis.com
-  version: 4.0.4
+  version: 4.3.5
 - name: s1p-concerts-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.62
