@@ -15,7 +15,7 @@ dependencies:
   version: 1.0.45
 - name: showcase-admin-tool
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.53
+  version: 0.0.54
 - name: mongodb
   repository: https://kubernetes-charts.storage.googleapis.com
   version: 4.2.1
