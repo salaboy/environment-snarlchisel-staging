@@ -12,7 +12,7 @@ dependencies:
   version: 4.2.1
 - name: s1p-concerts-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.65
+  version: 1.0.66
 - name: s1p-gateway
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.45
