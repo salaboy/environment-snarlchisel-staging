@@ -18,7 +18,7 @@ dependencies:
   version: 1.0.45
 - name: s1p-tickets-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.26
+  version: 0.0.27
 - name: showcase-admin-tool
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.54
