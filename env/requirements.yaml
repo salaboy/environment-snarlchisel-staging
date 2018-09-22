@@ -22,3 +22,6 @@ dependencies:
 - name: showcase-admin-tool
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.54
+- name: tickets-service-giraffe
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
